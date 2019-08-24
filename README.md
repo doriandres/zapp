@@ -1,2 +1,0 @@
-# zapp
-Created with CodeSandbox
